@@ -2,6 +2,7 @@
 	"name": "fcc-learn-npm-package-json",
 	"author": "Jesse James",
 	"description": "Yes, learning backend?? or am i?"
+	"keywords": ["lost","codecamp","xd"]
 	"dependencies": {
 		"express": "^4.14.0"
 	},
