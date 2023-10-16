@@ -4,6 +4,7 @@
 	"description": "Yes, learning backend?? or am i?"
 	"keywords": ["lost","freecodecamp","xd"]
 	"license": "MIT",
+	"version": "1.2.0",
 	"dependencies": {
 		"express": "^4.14.0"
 	},
